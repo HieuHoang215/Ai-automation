@@ -21,7 +21,7 @@ The design balances **technical sophistication** with **SME constraints** (limit
 
 ## Document Navigation
 
-### 1. `Architecture Document (1).pdf`
+### 1. `Architecture Document.pdf`
 - **Executive Summary**: Business value and approach overview  
 - **Problem Analysis & Stakeholder Synthesis**: Unified problem statement from conflicting needs  
 - **Agent Architecture with Decision Rationale**: Detailed design of 4 agents and coordination flow  
@@ -31,7 +31,7 @@ The design balances **technical sophistication** with **SME constraints** (limit
 
 ---
 
-### 2. `Chain of thoughts (1).pdf`
+### 2. `Chain of thoughts.pdf`
 - Documents my **reasoning process** for 5 key design decisions:
   1. Data Centralization  
   2. n8n Automation  
@@ -40,16 +40,10 @@ The design balances **technical sophistication** with **SME constraints** (limit
   5. Adjustable Business Priorities (cost vs. service vs. cash flow)  
 - Includes alternatives, trade-offs, and stakeholder impacts for each decision.  
 
----
-
-### 3. `Competitive Positioning.pdf`
-- Analyzes **off-the-shelf SaaS vs. custom AI** for PC.  
-- Provides ROI, break-even timeline, and stakeholder-specific advantages.  
-- Positions 3echo’s approach competitively with clear economic justification.  
 
 ---
 
-### 4. `Client Communication Package`
+### 3. `Client Communication Package`
 *(condensed deliverables for executives and IT team)*  
 - **Executive Summary (2 slides)**: Business value proposition, implementation timeline.  
 - **Technical Overview (1 page)**: IT integration strategy, system reliability, and maintenance approach.  
