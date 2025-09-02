@@ -21,7 +21,7 @@ The design balances **technical sophistication** with **SME constraints** (limit
 
 ## Document Navigation
 
-### 1. `Architecture Document.pdf`
+### 1. `Architecture_Document.pdf`
 - **Executive Summary**: Business value and approach overview  
 - **Problem Analysis & Stakeholder Synthesis**: Unified problem statement from conflicting needs  
 - **Agent Architecture with Decision Rationale**: Detailed design of 4 agents and coordination flow  
@@ -31,7 +31,7 @@ The design balances **technical sophistication** with **SME constraints** (limit
 
 ---
 
-### 2. `Chain of thoughts.pdf`
+### 2. `Chain_of_thoughts_journal.pdf`
 - Documents my **reasoning process** for 5 key design decisions:
   1. Data Centralization  
   2. n8n Automation  
